@@ -48,6 +48,26 @@ public class LandingPage {
 		
 		return driver.findElement(signin);
 	}
+	public WebElement getLogin()
+	{
+		System.out.println("newline1");
+		System.out.println("newline2");
+		System.out.println("newline3");
+		//
+		
+		//
+		System.out.println("newline4");
+		System.out.println("newline5");
+		System.out.println("newline6");
+		
+		//
+		System.out.println("NewApp1");
+		System.out.println("NewApp2");
+		System.out.println("NewApp3");
+		System.out.println("NewApp4");
+		
+		return driver.findElement(signin);
+	}
 	public WebElement getNavigationBar()
 	{
 		return driver.findElement(NavBar);
