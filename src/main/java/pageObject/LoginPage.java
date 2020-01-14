@@ -29,6 +29,7 @@ public class LoginPage {
 
 	public WebElement getEmail()
 	{
+		System.out.println("OneMoreChange");
 		return driver.findElement(email);
 	}
 	public WebElement getPassword()

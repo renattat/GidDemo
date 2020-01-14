@@ -40,6 +40,11 @@ public class LandingPage {
 		System.out.println("newline5");
 		System.out.println("newline6");
 		
+		//
+		System.out.println("NewApp1");
+		System.out.println("NewApp2");
+		System.out.println("NewApp3");
+		System.out.println("NewApp4");
 		
 		return driver.findElement(signin);
 	}
