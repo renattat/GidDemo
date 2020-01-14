@@ -1,0 +1,8 @@
+00:45:53.669 [main] INFO  resources.base - Navigated to homepage
+00:45:53.864 [main] INFO  resources.base - Successfully validated TextMessage
+00:46:06.881 [main] INFO  resources.base - Non Restricted User
+00:46:11.963 [main] INFO  resources.base - Restricted User
+00:46:42.957 [main] INFO  resources.base - Navigation VAr is displaed
+00:46:47.642 [main] INFO  resources.base - Driver is initialized
+00:46:55.217 [main] INFO  resources.base - Navigated to homepage
+00:47:08.140 [main] INFO  resources.base - Non Restricted User

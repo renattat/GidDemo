@@ -1,0 +1,6 @@
+22:26:03.941 [TestNG] INFO  resources.base - Driver is initialized
+22:26:15.946 [TestNG] INFO  resources.base - Navigated to homepage
+22:26:18.433 [TestNG] INFO  resources.base - Navigation VAr is displaed
+22:26:22.214 [TestNG] INFO  resources.base - Non Restricted User
+22:26:28.742 [TestNG] INFO  resources.base - Restricted User
+16:11:07.570 [TestNG-tests-3] INFO  resources.base - Driver is initialized

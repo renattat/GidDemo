@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 37.891 s <<< FAILURE! - in TestSuite
+Academy.validateTitle.validateAppTitle  Time elapsed: 0.883 s  <<< FAILURE!
+java.lang.AssertionError: expected [123ИНТЕРНЕТ-МАГАЗИН СПОРТИВНОГО ПИТАНИЯ] but found [ИНТЕРНЕТ-МАГАЗИН СПОРТИВНОГО ПИТАНИЯ]
+	at Academy.validateTitle.validateAppTitle(validateTitle.java:44)
+
+Academy.validateTitle.validateAppTitle  Time elapsed: 0.886 s  <<< FAILURE!
+java.lang.NullPointerException
+
