@@ -18,6 +18,10 @@ public class LoginPage {
 	
 	public LoginPage(WebDriver driver) {
 		// TODO Auto-generated constructor stub
+		System.out.println("newlineCODE1");
+		System.out.println("newlineCODE2");
+		System.out.println("newlineCODE3");
+		
 		this.driver=driver;
 	}
 
