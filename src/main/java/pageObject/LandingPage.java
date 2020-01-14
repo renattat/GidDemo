@@ -30,6 +30,10 @@ public class LandingPage {
 
 	public WebElement getLogin()
 	{
+		System.out.println("newline1");
+		System.out.println("newline2");
+		System.out.println("newline3");
+		
 		return driver.findElement(signin);
 	}
 	public WebElement getNavigationBar()
